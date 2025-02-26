@@ -1,0 +1,1 @@
+npm install @testing-library/jest-dom @testing-library/react @testing-library/user-event antd axios braintree-web-drop-in-react moment react react-dom react-helmet react-hot-toast react-router-dom react-scripts react-toastify web-vitals react-icons
